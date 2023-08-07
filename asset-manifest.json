@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/oxbm.com.au/static/css/main.b9ab69e5.css",
+    "main.js": "/oxbm.com.au/static/js/main.7bb7009b.js",
+    "static/js/787.ce283818.chunk.js": "/oxbm.com.au/static/js/787.ce283818.chunk.js",
+    "index.html": "/oxbm.com.au/index.html",
+    "main.b9ab69e5.css.map": "/oxbm.com.au/static/css/main.b9ab69e5.css.map",
+    "main.7bb7009b.js.map": "/oxbm.com.au/static/js/main.7bb7009b.js.map",
+    "787.ce283818.chunk.js.map": "/oxbm.com.au/static/js/787.ce283818.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9ab69e5.css",
+    "static/js/main.7bb7009b.js"
+  ]
+}
