@@ -1,7 +1,7 @@
 {
   "name": "oxbm",
   "version": "0.1.0",
-  "homepage": "https://chris-pollard.github.io/oxbm.com.au",
+  "homepage": "https://oxbm.com.au",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
