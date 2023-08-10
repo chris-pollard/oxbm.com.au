@@ -9,7 +9,13 @@ const theme = createTheme({
     MuiTypography: {
       styleOverrides: {
         h1: {
-          fontSize: '5rem'
+          fontSize: '4rem'
+        },
+        h2: {
+          fontSize: '3rem'
+        },
+        h3: {
+          fontSize: '2rem'
         }
       }
     },
@@ -56,11 +62,11 @@ function App() {
             <Typography variant="h3" textAlign="center">
               Inaugural Meetup 12th October 2023
             </Typography>
-            <Button fullWidth size="large" variant="contained" color="secondary">
+            <Button target="_blank" href="https://www.eventbrite.com.au/e/inaugural-old-xav-bitcoin-meetup-tickets-695262357427?aff=oddtdtcreator" rel="noreferrer" fullWidth size="large" variant="contained" color="secondary">
               Register
             </Button>
             <Typography variant="body2" textAlign="center">
-              Organised by Chris Pollard OX2003
+              Organised by Chris Pollard OX2003 (email cpollard [at] protonmail.com)
             </Typography>
           </Stack>
         </Container>
